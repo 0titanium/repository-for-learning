@@ -1,1 +1,1 @@
-$\binom{n}{k} = \frac{n!}{k!(n-k)!}$
+$\binom{n}{k}$ = $\frac{n!}{k!(n-k)!}$
