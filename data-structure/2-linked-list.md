@@ -1,5 +1,7 @@
 다음 원소와 링크에 의해 연결된 각 원소들이 차례로 나열된 원소들의 연속적인 구조.
+<br />
 listked list = head -> node[data, next] -> ... -> tail
+<br />
 
 ```javascript
 class Node {

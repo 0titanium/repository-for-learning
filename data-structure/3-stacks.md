@@ -1,6 +1,9 @@
 last in first out.
+<br />
 스택의 맨 위에서만 추가 제거가 이루어질 수 있다.
+<br />
 pop, push, isEmpty, peek, size.
+<br />
 
 ```javascript
 class Stack {

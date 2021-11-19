@@ -1,6 +1,9 @@
 first in first out.
+<br />
 rear에서 들어와서 front로 나간다.
+<br />
 enque, deque.
+<br />
 
 ```javascript
 class Queue {
